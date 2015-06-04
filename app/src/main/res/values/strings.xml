@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LocalOye Project</string>
+
+    <string name="title_section1">Current Tasks</string>
+    <string name="title_section2">Pending Tasks</string>
+    <string name="title_section3">Completed Tasks</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_create_task">CreateTask</string>
+</resources>
